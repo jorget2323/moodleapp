@@ -165,7 +165,7 @@
     "eslint-plugin-promise": "^6.1.1",
     "faker": "^5.1.0",
     "fs-extra": "^9.1.0",
-    "gulp": "4.0.2",
+    "gulp": "^4.0.2",
     "gulp-clip-empty-files": "^0.1.2",
     "gulp-concat": "^2.6.1",
     "gulp-flatten": "^0.4.0",
